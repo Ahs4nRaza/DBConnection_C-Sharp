@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS-DotNet\\SQLConnectionEF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4F4001-7D32-4E6F-99F5-A76D4D3AD866}|SQLConnectionEF\\SQLConnectionEF.csproj|d:\\vs-dotnet\\sqlconnectionef\\sqlconnectionef\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4F4001-7D32-4E6F-99F5-A76D4D3AD866}|SQLConnectionEF\\SQLConnectionEF.csproj|solutionrelative:sqlconnectionef\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4F4001-7D32-4E6F-99F5-A76D4D3AD866}|SQLConnectionEF\\SQLConnectionEF.csproj|d:\\vs-dotnet\\sqlconnectionef\\sqlconnectionef\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4F4001-7D32-4E6F-99F5-A76D4D3AD866}|SQLConnectionEF\\SQLConnectionEF.csproj|solutionrelative:sqlconnectionef\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4F4001-7D32-4E6F-99F5-A76D4D3AD866}|SQLConnectionEF\\SQLConnectionEF.csproj|d:\\vs-dotnet\\sqlconnectionef\\sqlconnectionef\\league.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4F4001-7D32-4E6F-99F5-A76D4D3AD866}|SQLConnectionEF\\SQLConnectionEF.csproj|solutionrelative:sqlconnectionef\\league.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4F4001-7D32-4E6F-99F5-A76D4D3AD866}|SQLConnectionEF\\SQLConnectionEF.csproj|d:\\vs-dotnet\\sqlconnectionef\\sqlconnectionef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4F4001-7D32-4E6F-99F5-A76D4D3AD866}|SQLConnectionEF\\SQLConnectionEF.csproj|solutionrelative:sqlconnectionef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 221,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VS-DotNet\\SQLConnectionEF\\SQLConnectionEF\\Program.cs",
+              "RelativeDocumentMoniker": "SQLConnectionEF\\Program.cs",
+              "ToolTip": "D:\\VS-DotNet\\SQLConnectionEF\\SQLConnectionEF\\Program.cs",
+              "RelativeToolTip": "SQLConnectionEF\\Program.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAgwFsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T09:51:27.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Team.cs",
+              "DocumentMoniker": "D:\\VS-DotNet\\SQLConnectionEF\\SQLConnectionEF\\Team.cs",
+              "RelativeDocumentMoniker": "SQLConnectionEF\\Team.cs",
+              "ToolTip": "D:\\VS-DotNet\\SQLConnectionEF\\SQLConnectionEF\\Team.cs",
+              "RelativeToolTip": "SQLConnectionEF\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T09:41:34.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "League.cs",
+              "DocumentMoniker": "D:\\VS-DotNet\\SQLConnectionEF\\SQLConnectionEF\\League.cs",
+              "RelativeDocumentMoniker": "SQLConnectionEF\\League.cs",
+              "ToolTip": "D:\\VS-DotNet\\SQLConnectionEF\\SQLConnectionEF\\League.cs",
+              "RelativeToolTip": "SQLConnectionEF\\League.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T09:40:58.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "D:\\VS-DotNet\\SQLConnectionEF\\SQLConnectionEF\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "SQLConnectionEF\\AppDBContext.cs",
+              "ToolTip": "D:\\VS-DotNet\\SQLConnectionEF\\SQLConnectionEF\\AppDBContext.cs",
+              "RelativeToolTip": "SQLConnectionEF\\AppDBContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA/wAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T09:40:55.823Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 60,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 340,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

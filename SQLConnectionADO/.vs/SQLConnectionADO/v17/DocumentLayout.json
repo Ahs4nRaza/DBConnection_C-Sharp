@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS-DotNet\\DBConnection\\SQLConnectionADO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D655487E-71CB-4A10-99C6-188A995645A2}|SQLConnectionADO\\SQLConnectionADO.csproj|d:\\vs-dotnet\\dbconnection\\sqlconnectionado\\sqlconnectionado\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D655487E-71CB-4A10-99C6-188A995645A2}|SQLConnectionADO\\SQLConnectionADO.csproj|solutionrelative:sqlconnectionado\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D655487E-71CB-4A10-99C6-188A995645A2}|SQLConnectionADO\\SQLConnectionADO.csproj|d:\\vs-dotnet\\dbconnection\\sqlconnectionado\\sqlconnectionado\\sqlconnectionado.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D655487E-71CB-4A10-99C6-188A995645A2}|SQLConnectionADO\\SQLConnectionADO.csproj|solutionrelative:sqlconnectionado\\sqlconnectionado.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D655487E-71CB-4A10-99C6-188A995645A2}|SQLConnectionADO\\SQLConnectionADO.csproj|d:\\vs-dotnet\\dbconnection\\sqlconnectionado\\sqlconnectionado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D655487E-71CB-4A10-99C6-188A995645A2}|SQLConnectionADO\\SQLConnectionADO.csproj|solutionrelative:sqlconnectionado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D655487E-71CB-4A10-99C6-188A995645A2}|SQLConnectionADO\\SQLConnectionADO.csproj|d:\\vs-dotnet\\dbconnection\\sqlconnectionado\\sqlconnectionado\\employeeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D655487E-71CB-4A10-99C6-188A995645A2}|SQLConnectionADO\\SQLConnectionADO.csproj|solutionrelative:sqlconnectionado\\employeeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D655487E-71CB-4A10-99C6-188A995645A2}|SQLConnectionADO\\SQLConnectionADO.csproj|d:\\vs-dotnet\\dbconnection\\sqlconnectionado\\sqlconnectionado\\sqlqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D655487E-71CB-4A10-99C6-188A995645A2}|SQLConnectionADO\\SQLConnectionADO.csproj|solutionrelative:sqlconnectionado\\sqlqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 221,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\VS-DotNet\\DBConnection\\SQLConnectionADO\\SQLConnectionADO\\App.config",
+              "RelativeDocumentMoniker": "SQLConnectionADO\\App.config",
+              "ToolTip": "D:\\VS-DotNet\\DBConnection\\SQLConnectionADO\\SQLConnectionADO\\App.config",
+              "RelativeToolTip": "SQLConnectionADO\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-05T03:48:02.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQLConnectionADO.csproj",
+              "DocumentMoniker": "D:\\VS-DotNet\\DBConnection\\SQLConnectionADO\\SQLConnectionADO\\SQLConnectionADO.csproj",
+              "RelativeDocumentMoniker": "SQLConnectionADO\\SQLConnectionADO.csproj",
+              "ToolTip": "D:\\VS-DotNet\\DBConnection\\SQLConnectionADO\\SQLConnectionADO\\SQLConnectionADO.csproj",
+              "RelativeToolTip": "SQLConnectionADO\\SQLConnectionADO.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T08:00:46.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeClass.cs",
+              "DocumentMoniker": "D:\\VS-DotNet\\DBConnection\\SQLConnectionADO\\SQLConnectionADO\\EmployeeClass.cs",
+              "RelativeDocumentMoniker": "SQLConnectionADO\\EmployeeClass.cs",
+              "ToolTip": "D:\\VS-DotNet\\DBConnection\\SQLConnectionADO\\SQLConnectionADO\\EmployeeClass.cs",
+              "RelativeToolTip": "SQLConnectionADO\\EmployeeClass.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowDUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T08:06:04.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SqlQueries.cs",
+              "DocumentMoniker": "D:\\VS-DotNet\\DBConnection\\SQLConnectionADO\\SQLConnectionADO\\SqlQueries.cs",
+              "RelativeDocumentMoniker": "SQLConnectionADO\\SqlQueries.cs",
+              "ToolTip": "D:\\VS-DotNet\\DBConnection\\SQLConnectionADO\\SQLConnectionADO\\SqlQueries.cs",
+              "RelativeToolTip": "SQLConnectionADO\\SqlQueries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T07:31:31.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VS-DotNet\\DBConnection\\SQLConnectionADO\\SQLConnectionADO\\Program.cs",
+              "RelativeDocumentMoniker": "SQLConnectionADO\\Program.cs",
+              "ToolTip": "D:\\VS-DotNet\\DBConnection\\SQLConnectionADO\\SQLConnectionADO\\Program.cs",
+              "RelativeToolTip": "SQLConnectionADO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:18:52.429Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 60,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1192,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
